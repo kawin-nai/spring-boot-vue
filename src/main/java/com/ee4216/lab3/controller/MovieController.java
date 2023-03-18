@@ -2,7 +2,6 @@ package com.ee4216.lab3.controller;
 
 import com.ee4216.lab3.dao.MovieDao;
 import com.ee4216.lab3.entity.Movie;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
