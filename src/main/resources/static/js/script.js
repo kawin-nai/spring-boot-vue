@@ -48,9 +48,3 @@ const vm = new Vue({
         this.getMovies();
     }
 });
-
-const API_URL = "http://localhost/api/movies"
-
-
-
-
